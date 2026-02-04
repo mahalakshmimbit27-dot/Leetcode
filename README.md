@@ -1,0 +1,2 @@
+# Leetcode
+basic code
